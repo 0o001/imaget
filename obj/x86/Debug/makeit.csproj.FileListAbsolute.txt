@@ -1,0 +1,36 @@
+c:\users\mustafa\documents\visual studio 2010\Projects\makeit\obj\x86\Debug\makeit.csprojResolveAssemblyReference.cache
+c:\users\mustafa\documents\visual studio 2010\Projects\makeit\obj\x86\Debug\makeit.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\makeit\obj\x86\Debug\makeit.csproj.GenerateResource.Cache
+C:\Users\mustafa\documents\visual studio 2010\Projects\makeit\obj\x86\Debug\makeit.frm_sozluk.resources
+C:\Users\mustafa\documents\visual studio 2010\Projects\makeit\obj\x86\Debug\makeit.frm_yukle.resources
+C:\Users\mustafa\documents\visual studio 2010\Projects\makeit\obj\x86\Debug\makeit.frm_mesaj.resources
+C:\Users\mustafa\documents\visual studio 2010\Projects\makeit\obj\x86\Debug\makeit.frm_ayarlar.resources
+C:\Users\mustafa\documents\visual studio 2010\Projects\makeit\bin\Debug\Imaget.exe.config
+C:\Users\mustafa\documents\visual studio 2010\Projects\makeit\bin\Debug\Imaget.exe
+C:\Users\mustafa\documents\visual studio 2010\Projects\makeit\bin\Debug\Imaget.pdb
+C:\Users\mustafa\documents\visual studio 2010\Projects\makeit\obj\x86\Debug\Imaget.exe
+C:\Users\mustafa\documents\visual studio 2010\Projects\makeit\obj\x86\Debug\Imaget.pdb
+C:\Users\musta\Desktop\Imaget Windows\makeit\bin\Debug\Imaget.exe.config
+C:\Users\musta\Desktop\Imaget Windows\makeit\obj\x86\Debug\Imaget.exe
+C:\Users\musta\Desktop\Imaget Windows\makeit\obj\x86\Debug\Imaget.pdb
+C:\Users\musta\Desktop\Imaget Windows\makeit\bin\Debug\Imaget.exe
+C:\Users\musta\Desktop\Imaget Windows\makeit\bin\Debug\Imaget.pdb
+C:\Users\musta\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.csprojResolveAssemblyReference.cache
+C:\Users\musta\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.frm_ayarlar.resources
+C:\Users\musta\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.frm_mesaj.resources
+C:\Users\musta\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.frm_sozluk.resources
+C:\Users\musta\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.frm_yukle.resources
+C:\Users\musta\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.Properties.Resources.resources
+C:\Users\musta\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.csproj.GenerateResource.Cache
+C:\Users\Mustafa Uzun\Desktop\Imaget Windows\makeit\bin\Debug\Imaget.exe.config
+C:\Users\Mustafa Uzun\Desktop\Imaget Windows\makeit\obj\x86\Debug\Imaget.exe
+C:\Users\Mustafa Uzun\Desktop\Imaget Windows\makeit\obj\x86\Debug\Imaget.pdb
+C:\Users\Mustafa Uzun\Desktop\Imaget Windows\makeit\bin\Debug\Imaget.exe
+C:\Users\Mustafa Uzun\Desktop\Imaget Windows\makeit\bin\Debug\Imaget.pdb
+C:\Users\Mustafa Uzun\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa Uzun\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.frm_ayarlar.resources
+C:\Users\Mustafa Uzun\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.frm_mesaj.resources
+C:\Users\Mustafa Uzun\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.frm_sozluk.resources
+C:\Users\Mustafa Uzun\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.frm_yukle.resources
+C:\Users\Mustafa Uzun\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.Properties.Resources.resources
+C:\Users\Mustafa Uzun\Desktop\Imaget Windows\makeit\obj\x86\Debug\makeit.csproj.GenerateResource.Cache
